@@ -5,3 +5,6 @@ pink
 orange
 blue
 red
+green
+black
+white
